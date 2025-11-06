@@ -15,7 +15,7 @@ const App = () => {
       <>
       <Navbar />
 
-      <div className="scroll-smooth mt-40">
+      <div className="scroll-smooth">
         <Home />
         <About />
         <Stories />
